@@ -271,15 +271,20 @@
     }
 }
 .flowerSort{
-    color: rgb(61, 61, 61);
-    font-family: Roboto;
-    font-size: 15px;
-    font-weight: 400;
-    line-height: 16px;
-    letter-spacing: 0%;
-    text-align: left; 
+    display: flex;
+    gap: 4px;
+    span{
+        color: rgb(61, 61, 61);
+        font-family: Roboto;
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 16px;
+        letter-spacing: 0%;
+        text-align: left; 
+    }
     select{
         width: 20px;
+        border: none;
     }
 }
 .flowerBottom{

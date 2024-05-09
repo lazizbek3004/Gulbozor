@@ -36,7 +36,7 @@ body .activeBody{
     text-align: left;
     text-decoration: none;
 }
-.nav:hover{  
+.greenNav{  
     color: rgb(61, 61, 61);
     font-size: 16px;
     font-weight: 700;

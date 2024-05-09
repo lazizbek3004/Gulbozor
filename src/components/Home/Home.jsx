@@ -178,7 +178,7 @@ export default function Home(){
                             </ul>
                         </div>
                         <div className='flowerSort'>
-                            Short by: Default sorting
+                            <span>Short by: Default sorting</span>
                             <select name="" id="">
                                 <option value=""></option>
                             </select>
