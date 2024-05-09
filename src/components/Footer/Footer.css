@@ -83,6 +83,7 @@ footer{
         letter-spacing: 0%;
         text-align: left; 
         border: none;
+        outline: none;
     }
     button{
         height: 40px;
